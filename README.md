@@ -1,1 +1,1 @@
-Ruby-on-Rails gem for Valve/g.raphael-radar
+Ruby-on-Rails gem for [Valve/g.raphael-radar][https://github.com/Valve/g.raphael-radar]
